@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.table{
+  padding:20px;
+  margin-top: 3%;
+  margin-left:5%;
+ width: 90%;
+  
+}
+
+.navbar-brand{
+  padding-right: 400px;
+  font-weight: 600;
+ 
+  
+}
+.nav-link {
+  font-weight: 350;
+  
+}
+.formheading{
+  font-size:150%;
+  font-weight: 600;
+
+}
+.heading{
+  margin-left: 5%;
+  padding-top: 1%;
+  margin-bottom: -20px;
+  font-size:150%;
+  font-weight: 600;
+}
