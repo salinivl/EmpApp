@@ -14,7 +14,7 @@ const Empheader = () => {
       <ul className="navbar-nav">
         <li className="nav-item">
           {/* <a className="nav-link active dashboard" aria-current="page" href="/">Dashboard</a> */}
-          <Link to="/" className="nav-link active dashboard">Employee Dashboard</Link>
+          <Link to="/" className="nav-link active dashboard">Dashboard</Link>
         </li>
         <li className="nav-item">
           {/* <a className="nav-link active empform" href="/form">Employee Form</a> */}
